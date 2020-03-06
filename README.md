@@ -1,5 +1,8 @@
-# minebee price gnome ticket 
+# minebee gnome price ticker
 
-Gnome 3 desktop ticker for minebee price with Python and argos. Rename to minebee.1r.60s.py and put in ~/.config/argos
+Get minebee price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/minebee-price-gnome-ticket/](https://codesharedot.github.io/minebee-price-gnome-ticket/)
 
-https://pythonbasics.org
+minebee price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to minebee.1r60s.py and put in ~/.config/argos
